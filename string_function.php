@@ -60,6 +60,8 @@ if($test2){
     printf("%s loves to  %s", 'Bola', 'Code!!!');
 echo "<br>";
 printf('%d years ago, I was %d years old', 22, 26);
+echo "<br>";
+
 
 
 

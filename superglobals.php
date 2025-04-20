@@ -18,4 +18,10 @@
 
 //$_REQUEST - contains info about variable passed through the form or url;
 
-//
+print_r($_SERVER['HTTP_HOST']);
+echo "<br>";
+print_r($_SERVER['SERVER_SOFTWARE']);
+echo "<br>";
+print_r($_SERVER['HTTP_USER_AGENT']);
+echo "<br>";
+print_r($_SERVER['REQUEST_URL']);
